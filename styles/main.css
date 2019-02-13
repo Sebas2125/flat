@@ -2,6 +2,24 @@
     margin: 0;
     padding: 0;
 }
-img{
-    width: 100px
+div
+{
+    margin: 100px;
+    padding: 100px;
+    border: solid;
+    border-color: black;
+}
+nav
+{
+    margin: 50px;
+    padding: 50px;
+    background-color: green;
+    display: inline-block;
+}
+ul
+{
+    margin: 50px;
+    padding: 50px;
+    background-color: blue;
+    display: inline-block;
 }
