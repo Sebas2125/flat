@@ -1,4 +1,54 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
 *{
     margin: 0;
     padding: 0;
+}
+.pagina2 div
+{
+    width: 537px;
+    height: 170px;
+    margin: 0px 0px 10px 400px;
+    padding: 10px;
+    border: solid;
+    border-color: black;
+    
+
+}
+
+.pagina2 div main
+{
+    width: 265px;
+    margin: -6px 0px 0px -6px;
+    height: 175px;
+    border: solid;
+    border-color: rgb(0, 0, 0);
+    
+}
+.pagina2 div aside
+{
+    width: 265px;
+    margin: -181px 0px 0px 270px;
+    height: 175px;
+    border: solid;
+    border-color: rgb(0, 0, 0);
+    
+}
+
+.pagina2 div main nav
+{
+    width: 205px;
+    margin: 6px 0px 0px 28px;
+    height: 155px;
+    border: solid;
+    border-color: rgb(0, 0, 0);
+    
+}
+.pagina2 div aside ul
+{
+    width: 205px;
+    margin: 6px 0px 0px 28px;
+    height: 155px;
+    border: solid;
+    border-color: rgb(0, 0, 0);
+    
 }
