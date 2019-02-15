@@ -131,3 +131,24 @@ div main h4 img
   height: 47px;
   margin: 0px 79px;
 }
+div aside nav
+{
+  width: 205px;
+  margin: 10px 0px 0px 28px;
+  height: 150px;
+  background-color: white;
+}
+div aside nav h2
+{
+  background-color: blue;
+  margin: 0px 0px 0px 50px;
+  width: 43px;
+  height: 50px;
+}
+div aside nav h3
+{
+  width: 205px;
+  margin: 0px 0px 0px 0px;
+  height: 50px;
+  background-color: blue;
+}
