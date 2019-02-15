@@ -36,7 +36,7 @@ article{
 }
 .pagina2 div
 {
-    width: 537px;
+    width: 535px;
     height: 170px;
     margin: 0px 0px 10px 400px;
     padding: 10px;
@@ -46,94 +46,153 @@ article{
 
 }
 
-.pagina2 div main
+.pagina2 div h2
 {
-    width: 265px;
-    margin: -6px 0px 0px -6px;
+    width: 260px;
+    margin: -6px 10px 0px -4px;
     height: 175px;
     border: solid;
     border-color: rgb(0, 0, 0);
-    
-}
-.pagina2 div aside
-{
-    width: 265px;
-    margin: -181px 0px 0px 270px;
-    height: 175px;
-    border: solid;
-    border-color: rgb(0, 0, 0);
-    
-}
-
-.pagina2 div main nav
-{
-    width: 205px;
-    margin: 6px 0px 0px 28px;
-    height: 155px;
-    border: solid;
-    border-color: rgb(0, 0, 0);
-    
-}
-.pagina2 div aside ul
-{
-    width: 205px;
-    margin: 6px 0px 0px 28px;
-    height: 155px;
-    border: solid;
-    
-    
-}
-
-.pagina2 div main  h6
-{
-    width: 205px;
-    margin: 10px 0px 0px 28px;
-    height: 50px;
-    background-color: rgb(235, 242, 255);
-    
-}
-.pagina2 div main  article
-{
-    width: 205px;
-    margin: 0px 0px 0px 28px;
-    height: 50px;
-    background-color: rgb(11, 81, 212);
-    
-}
-.pagina2 div main  li
-{
-    width: 205px;
-    margin: 0px 0px 0px 28px;
-    height: 50px;
-    background-color: rgb(231, 12, 12);
-    
-}
-
-.pagina2 div aside  h5
-{
-    width: 205px;
-    margin: 5px 0px 5px 28px;
-    height: 30px;
-    background-color: rgb(45, 12, 231);
-    
-}
-.pagina2 div aside  h4
-{
-    width: 205px;
-    margin: 0px 0px 0px 28px;
-    height: 80px;
-    background-color: rgb(231, 12, 12);
-    padding:  10px 0px 0px 0px;
-}
-.pagina2 div aside h4 aside 
-{
-    width: 60px;
-    margin: 0px 0px 0px 65px;
-    height: 60px;
-    
-    border-color: rgb(255, 254, 254);
-    border-radius: 50px;
-    
    
+    display: inline-block
+}
 
+
+
+.pagina2 div h3
+{
+    width: 260px;
+    margin: -6px -6px 0px -6px;
+    height: 175px;
+    border: solid;
+    border-color: rgb(0, 0, 0);
+    vertical-align: top;
+    display: inline-block
+}
+
+.pagina2 div h2 aside
+{
+    width: 198px;
+    height: 50px;
+    background: rgb(250, 252, 238);
+    margin: 15px 0px -6px 25px;
+}
+.pagina2 div h2 section
+{
+    width: 198px;
+    height: 50px;
+    background: rgb(58, 23, 255);
+    margin: 0px 0px -6px 25px;
+}
+.pagina2 div h2 li
+{
+    width: 198px;
+    height: 50px;
+    background: rgb(182, 1, 1);
+    margin: 6px 0px 0px 25px;
+    list-style: none;
+}
+
+.pagina2 div h3 div
+{
+    width: 180px;
+    height: 15px;
+    background: rgb(58, 23, 255);
+    margin: 15px 0px 0px 25px;
+    border-top: 0px ;
+    border-right: 0px ;
+    border-bottom: 0px;
+    border-left: 0px;
+}
+.pagina2 div h3 section
+{
+    width: 200px;
+    height: 60px;
+    background: rgb(182, 1, 1);
+    margin: 6px 0px 0px 25px;
+}
+.pagina2 div h3 section img
+{
+    width: 40px;
+    height: 40px;
+    background: rgb(255, 254, 254);
+    margin: 10px 0px 0px 25px;
+    border-radius: 50px;
+}
+.pagina2 div h3 li
+{
+    width: 200px;
+    height: 30px;
+    background: rgb(58, 23, 255);
+    margin: 6px 0px -6px 25px;
+    border-top: 0px ;
+    border-right: 0px ;
+    border-bottom: 0px;
+    border-left: 0px;
+    list-style: none;
+}
+
+.pagina2 div h2 div
+{
+    width: 180px;
+    height: 120px;
+    background: rgb(255, 0, 0);
+    margin: 20px 0px 0px 25px;
+    border-top: 0px ;
+    border-right: 0px ;
+    border-bottom: 0px;
+    border-left: 0px;
+}
+.pagina2 div h2 div li
+{
+    width: 140px;
+    height: 150px;
+    background: rgb(255, 255, 255);
+    margin: -10px 0px 0px 20px;
+    border-top: 0px ;
+    border-right: 0px ;
+    border-bottom: 0px;
+    border-left: 0px;
+    list-style: none;
+    
+}
+.pagina2 div h2 div li img
+{
+    width: 100px;
+    height: 100px; 
+    margin: 20px 0px 0px 24px;
+    border-radius: 50px;
+}
+
+.pagina2 div h3 article
+{
+    width: 200px;
+    height: 140px;
+    background: rgb(255, 0, 0);
+    margin: 20px 0px 0px 30px;
+    border-top: 0px ;
+    border-right: 0px ;
+    border-bottom: 0px;
+    border-left: 0px;
+    
+}
+.pagina2 div h3 article h3
+{
+    width: 200px;
+    height: 80px;
+    background: rgb(255, 251, 0);
+    margin: 30px 0px 0px 0px;
+    border-top: 0px ;
+    border-right: 0px ;
+    border-bottom: 0px;
+    border-left: 0px;
+   
+    
+}
+.pagina2 div h3 article h3 img
+{
+    width: 80px;
+    height: 80px; 
+    margin: 0px 0px 0px -80px;
+    border-radius: 50px;
 }
