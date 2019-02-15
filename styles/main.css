@@ -87,7 +87,7 @@ div aside h3
 {
   background-color: yellow;
   width: 205px;
-  height: 50px;
+  height: 75px;
   margin: 10px 0px 0px 28px;
 }
 div aside h4
@@ -95,5 +95,39 @@ div aside h4
   background-color: blue;
   width: 205px;
   margin: 0px 0px 0px 28px;
+  height: 38px;
+}
+div aside h5
+{
+  background-color: red;
+  width: 205px;
+  margin: 0px 0px 0px 28px;
+  height: 38px;
+}
+div main h3
+{
+  background-color: red;
+  width: 205px;
+  margin: 10px 0px 0px 28px;
   height: 50px;
+}
+div main h4
+{
+  width: 205px;
+  margin: 0px 0px 0px 28px;
+  height: 50px;
+  background-color: white;
+}
+div main h5
+{
+  width: 205px;
+  margin: 0px 0px 0px 28px;
+  height: 50px;
+  background-color: black;
+}
+div main h4 img
+{
+  width: 47px;
+  height: 47px;
+  margin: 0px 79px;
 }
