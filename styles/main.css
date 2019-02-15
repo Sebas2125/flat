@@ -73,12 +73,27 @@ div main article
 div main nav
 {
     width: 205px;
-    margin: 10px 0px 0px 28px;
+    margin: 0px 0px 0px 28px;
     height: 50px;
     background-color: rgb(158, 217, 235);
 }
 div main article img
 {
-  width: 10px;
-  height: 10px;
+  width: 47px;
+  height: 47px;
+  margin: 0px 0px;
+}
+div aside h3
+{
+  background-color: yellow;
+  width: 205px;
+  height: 50px;
+  margin: 10px 0px 0px 28px;
+}
+div aside h4
+{
+  background-color: blue;
+  width: 205px;
+  margin: 0px 0px 0px 28px;
+  height: 50px;
 }
