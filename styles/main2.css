@@ -52,11 +52,9 @@ article{
     margin: -6px 10px 0px -4px;
     height: 175px;
     border: solid;
-    border-color: rgb(0, 0, 0);
-   
-    display: inline-block
+    border-color: rgb(0, 0, 0); 
+    display: inline-block;
 }
-
 
 
 .pagina2 div h3
@@ -67,7 +65,7 @@ article{
     border: solid;
     border-color: rgb(0, 0, 0);
     vertical-align: top;
-    display: inline-block
+    display: inline-block;
 }
 
 .pagina2 div h2 aside
@@ -168,7 +166,7 @@ article{
 {
     width: 100px;
     height: 100px; 
-    margin: 20px 0px 0px 24px;
+    margin: 20px 0px 0px 0px;
     border-radius: 50px;
 }
 
@@ -252,7 +250,7 @@ article{
 
     width: 40px;
     height: 40px;
-    margin: 50px 0px 0px 10px;
+    margin: 50px 0px 0px 0px;
     border-top: 0px ;
     border-right: 0px ;
     border-bottom: 0px;
@@ -312,13 +310,15 @@ article{
     display: inline-block
     
 }
-.pagina2 div h3 footer{
+.pagina2 div h3 footer
+{
     font-size: 15px;
     text-align:center;
     font-family: 'Roboto', sans-serif;
     
 }
-.pagina2 div h2 footer{
+.pagina2 div h2 
+{
     font-size: 15px;
     text-align:center;
     font-family: 'Roboto', sans-serif;
@@ -351,6 +351,7 @@ article{
    font-family: 'Roboto', sans-serif;
    margin: 9px 0px 0px 0px;
 }
- body{
-    background-color: rgb(223, 223, 157);
+body
+{
+    background-color:  rgb(223, 223, 157);
 }
