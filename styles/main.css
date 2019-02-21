@@ -258,3 +258,7 @@ div aside ol
   text-align: center;
   font-family: 'Roboto', sans-serif;  
 }
+body
+{
+  background-color: rgb(223, 223, 157);
+}
